@@ -27,9 +27,6 @@ status:
 ## 👨 Social [🔝](#welcome-badges-4-readmemd-profile)
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![image]({BadgeURLHere})
-![image]({BadgeURLHere})
-![image]({BadgeURLHere})
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
@@ -39,12 +36,6 @@ status:
 <p align="center">
 <br/>
 <a href="https://www.linkedin.cn/incareer/in/jarvis-chan-1064ba1a0">
-  <img alt="JarvisChan's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
-</a>
- <a href="https://www.linkedin.cn/incareer/in/jarvis-chan-1064ba1a0">
-  <img alt="JarvisChan's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
-</a>
-  <a href="https://www.linkedin.cn/incareer/in/jarvis-chan-1064ba1a0">
   <img alt="JarvisChan's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
 </a>
 <br>
@@ -59,5 +50,14 @@ status:
   <img alig src="https://github-profile-trophy.vercel.app/?username=JarvisChan666&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
-
+## 📈 Activity Graph [🔝](#welcome-badges-4-readmemd-profile)
 <img width='600' src="https://activity-graph.herokuapp.com/graph?username=JarvisChan666&theme=minimal" /> 
+
+## 💳 Github Profile Summary Card [🔝](#welcome-badges-4-readmemd-profile)
+<img width='600' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JarvisChan666&theme=vue" />
+
+## 📊 Most Used Language [🔝](#welcome-badges-4-readmemd-profile)
+<img width='600' src="https://github-readme-stats.vercel.app/api/top-langs/?username=JarvisChan666" />
+
+## 🏆 Trophy Stats [🔝](#welcome-badges-4-readmemd-profile)
+<img width='600' src="https://github-profile-trophy.vercel.app/?username=JarvisChan666" /> 
