@@ -1,14 +1,20 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=JarvisChan666&show_icons=true)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Skills:
 
+![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+IDE:
+![image](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
+![image](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
+![image](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![image](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
+![image](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+status:
+![image](https://img.shields.io/badge/Future%20Learn-000000?style=for-the-badge&logo=futurelearn&logoColor=white)
+Language:
+![image]({BadgeURLHere})
+![image]({BadgeURLHere})
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -27,20 +33,6 @@
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=JarvisChan666&show_icons=true)
-
-
-
-```yaml
-name: Jarvis Chan
-located_in: Guangdong, China
-from: Guangzhou (China)
-job: System Engineering & Data Analysis
-education: ["Bachelor's in Information Management and Information System"]
-company: None
-
-currently_learning: ["Linux","ML"]
-hobbies: ["Football",  "AIoT"]
-```
 
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=JarvisChan666&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
