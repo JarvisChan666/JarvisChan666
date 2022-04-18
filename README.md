@@ -30,7 +30,6 @@ status:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-(https://github.com/JarvisChan666/JarvisChan666/actions)
 ![](https://visitor-badge.glitch.me/badge?page_id=JarvisChan666.JarvisChan666)
 
 <p align="center">
@@ -44,11 +43,7 @@ status:
 </p>
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=JarvisChan666&show_icons=true)
 
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=JarvisChan666&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
 
 ## 📈 Activity Graph [🔝](#welcome-badges-4-readmemd-profile)
 <img width='600' src="https://activity-graph.herokuapp.com/graph?username=JarvisChan666&theme=minimal" /> 
