@@ -28,6 +28,12 @@ status:
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 <!--START_SECTION:waka-->
+
+```text
+C            27 mins         ███████████████████▓░░░░░   78.58 %
+ObjectiveC   7 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.42 %
+```
+
 <!--END_SECTION:waka-->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=JarvisChan666.JarvisChan666)
