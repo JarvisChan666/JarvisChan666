@@ -1,5 +1,55 @@
 
+### 各大时段的投入重心(一些没必要的事少做，选择大于努力)
+
+#### 	大一下投入于，以及基本目标(2022.9月前完成）：
+
+##### 		1. ai基础素养的培养，包括独立建模，能推基本的数学原理，掌握不限于机器学习(线性类，决策树，图概率)，以及完成基本的kaggle任务，并独立撰写报告。
+
+##### 		2. 计算机系统级的学习，包括但不限于linux系统编程，计算机网络，基本的数据结构和算法，能够投入一到两本计算机相关书籍作为拓展
+
+##### 		3. 做好以上两点，最好是全身心投入
+	
+
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=JarvisChan666&show_icons=true)
+
+![](https://visitor-badge.glitch.me/badge?page_id=JarvisChan666.JarvisChan666)
+
+<p align="center">
+<br/>
+<a href="https://www.linkedin.cn/incareer/in/jarvis-chan-1064ba1a0">
+  <img alt="JarvisChan's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+</a>
+<br>
+ 
+  <!--START_SECTION:waka-->
+
+```text
+C            3 hrs           █████████████░░░░░░░░░░░░   51.60 %
+C++          1 hr 46 mins    ███████▓░░░░░░░░░░░░░░░░░   30.50 %
+ObjectiveC   43 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 %
+Java         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+CMake        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+```
+
+<!--END_SECTION:waka-->
+</p>
+
+
+## 📈 Activity Graph [🔝](#welcome-badges-4-readmemd-profile)
+<img width='600' src="https://activity-graph.herokuapp.com/graph?username=JarvisChan666&theme=minimal" /> 
+
+## 💳 Github Profile Summary Card [🔝](#welcome-badges-4-readmemd-profile)
+<img width='600' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JarvisChan666&theme=vue" />
+
+## 📊 Most Used Language [🔝](#welcome-badges-4-readmemd-profile)
+<img width='600' src="https://github-readme-stats.vercel.app/api/top-langs/?username=JarvisChan666" />
+
+## 🏆 Trophy Stats [🔝](#welcome-badges-4-readmemd-profile)
+<img width='600' src="https://github-profile-trophy.vercel.app/?username=JarvisChan666" /> 
+
+
+
 ## 👩‍💻 IDE [🔝](#welcome-badges-4-readmemd-profile)
 ![image](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
 ![image](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
@@ -27,40 +77,3 @@ status:
 ## 👨 Social [🔝](#welcome-badges-4-readmemd-profile)
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-![](https://visitor-badge.glitch.me/badge?page_id=JarvisChan666.JarvisChan666)
-
-<p align="center">
-<br/>
-<a href="https://www.linkedin.cn/incareer/in/jarvis-chan-1064ba1a0">
-  <img alt="JarvisChan's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
-</a>
-<br>
- 
-  <!--START_SECTION:waka-->
-
-```text
-C            3 hrs           █████████████░░░░░░░░░░░░   51.60 %
-C++          1 hr 46 mins    ███████▓░░░░░░░░░░░░░░░░░   30.50 %
-ObjectiveC   43 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 %
-Java         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
-CMake        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-```
-
-<!--END_SECTION:waka-->
-</p>
-
-
-
-
-## 📈 Activity Graph [🔝](#welcome-badges-4-readmemd-profile)
-<img width='600' src="https://activity-graph.herokuapp.com/graph?username=JarvisChan666&theme=minimal" /> 
-
-## 💳 Github Profile Summary Card [🔝](#welcome-badges-4-readmemd-profile)
-<img width='600' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JarvisChan666&theme=vue" />
-
-## 📊 Most Used Language [🔝](#welcome-badges-4-readmemd-profile)
-<img width='600' src="https://github-readme-stats.vercel.app/api/top-langs/?username=JarvisChan666" />
-
-## 🏆 Trophy Stats [🔝](#welcome-badges-4-readmemd-profile)
-<img width='600' src="https://github-profile-trophy.vercel.app/?username=JarvisChan666" /> 
