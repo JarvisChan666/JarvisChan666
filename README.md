@@ -1,4 +1,4 @@
-# 
+# STAY HUNGRY , STAY FOOLISH
 
 ### 各大时段的投入重心(一些没必要的事少做，选择大于努力)
 
