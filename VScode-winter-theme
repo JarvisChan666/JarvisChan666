@@ -1,0 +1,43 @@
+{
+    "explorer.confirmDelete": false,
+    "editor.tokenColorCustomizations": {
+        "comments": "#f40b0b",
+        "keywords": "#fbbd04",
+        "variables": "#7df308",
+        "strings": "#13f807",
+        "functions": "#a9c8ed",
+        "numbers": "#f6f5f8",
+        "types": "#a155ff",
+    },
+    "workbench.colorCustomizations": {},
+    "go.gopath": "E:\\Tech\\CSthings\\Go\\go",
+    "workbench.colorTheme": "Winter is Coming (Dark Blue)",
+    "workbench.iconTheme": "vscode-icons",
+    "leetcode.endpoint": "leetcode-cn",
+    "leetcode.nodePath": "D:\\Software\\Nodejs\\node.exe",
+    "leetcode.workspaceFolder": "e:\\Tech\\CSthings\\Algorithm\\Leetcode",
+    "leetcode.defaultLanguage": "golang",
+    "vsicons.dontShowNewVersionMessage": true,
+    "files.autoGuessEncoding": true,
+    "window.zoomLevel": 1,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "files.associations": {
+        "*.vue": "html"
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.includeLanguages": {
+        "vue-html": "html",
+        "vue": "html"
+    },
+    "editor.formatOnSaveMode": "modifications",
+    "[javascript]": {
+        "editor.defaultFormatter": "lonefy.vscode-JS-CSS-HTML-formatter"
+    },
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "solidity.packageDefaultDependenciesDirectory": "path/to/sub/dir/node_modules",
+    
+    "solidity.telemetry": true,
+    "tabnine.experimentalAutoImports": true
+}
