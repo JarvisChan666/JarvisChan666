@@ -1,13 +1,3 @@
-# STAY HUNGRY , STAY FOOLISH
-
-### A SRE/Devops Engineer! 
-	
-
-
-![github stats](https://github-readme-stats.vercel.app/api?username=JarvisChan666&show_icons=true)
-
-![](https://visitor-badge.glitch.me/badge?page_id=JarvisChan666.JarvisChan666)
-
 <p align="center">
 <br/>
 <a href="https://www.linkedin.cn/incareer/in/jarvis-chan-1064ba1a0">
